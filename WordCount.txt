@@ -1,0 +1,4 @@
+Testing started
+INFO ShutdownHookManager
+Deleting directory
+Process finished with exit code
